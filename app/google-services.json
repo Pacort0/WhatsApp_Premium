@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049263466572",
+    "project_id": "mensajeria-7fc08",
+    "storage_bucket": "mensajeria-7fc08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049263466572:android:7999d980fd981b9d586ce9",
+        "android_client_info": {
+          "package_name": "com.example.mensajeriafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS95nshlhGZ-avY6kDWrqSjvFDhXhhrcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049263466572:android:1f67b5515d5030cc586ce9",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_premium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS95nshlhGZ-avY6kDWrqSjvFDhXhhrcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
