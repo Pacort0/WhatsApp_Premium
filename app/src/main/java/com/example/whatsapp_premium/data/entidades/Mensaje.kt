@@ -1,4 +1,4 @@
-package com.example.whatsapp_premium.entidades
+package com.example.whatsapp_premium.data.entidades
 
 import java.sql.Timestamp
 
